@@ -1,7 +1,7 @@
 # Home Network Reconnaissance Report
 
-**Author:** Teejay Kongolo
-**Date:** July 5, 2026
+**Author:** Tumba II Z.M Kongolo
+**Date:** July 12, 2026
 **Tools used:** Nmap 7.99, Kali Linux
 **Scope:** My own home network (192.168.0.0/24) — scanned with authorization as the network owner
 
